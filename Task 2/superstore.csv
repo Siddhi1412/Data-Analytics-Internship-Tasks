@@ -1,0 +1,11 @@
+Order ID,Order Date,Category,Sub-Category,Region,Sales,Profit
+CA-2019-1001,2019-01-05,Furniture,Chairs,West,350,29
+CA-2019-1002,2019-01-06,Technology,Phones,East,950,120
+CA-2019-1003,2019-01-06,Office Supplies,Binders,Central,40,3
+CA-2019-1004,2019-02-10,Technology,Accessories,South,130,15
+CA-2019-1005,2019-02-12,Furniture,Tables,East,700,-50
+CA-2019-1006,2019-02-15,Office Supplies,Paper,West,25,5
+CA-2019-1007,2019-03-05,Technology,Phones,South,1100,150
+CA-2019-1008,2019-03-10,Furniture,Bookcases,Central,400,20
+CA-2019-1009,2019-03-11,Office Supplies,Storage,East,80,7
+CA-2019-1010,2019-03-20,Technology,Accessories,West,150,17
