@@ -16,11 +16,12 @@ Create basic data visualizations in Power BI to understand data visualization co
 - Sample dataset (included in this folder)
 
 ## 📂 Included Files
-- `Dashboard.pbix` → Power BI project file
-- `Dashboard.pdf` → Exported PDF of the dashboard
+- `PowerBI_Basics.pbix` → Power BI project file
+- `PowerBI_Basics.pdf` → Exported PDF of the dashboard
 - (Optional) Screenshot or demo video of dashboard
 
 ## 💡 Notes
 - This project demonstrates basic data visualization concepts such as chart creation, report design, and data interpretation.
 - Suitable for beginner-level Power BI practice.
+
 
