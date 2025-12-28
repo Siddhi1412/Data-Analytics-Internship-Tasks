@@ -108,7 +108,12 @@ Task 3 - HR Attrition Dashboard/
 
 ---
 
-🎥 **Dashboard Walkthrough Video:** Shared via LinkedIn (due to GitHub file size limitations)
+Due to GitHub file size limitations, the interactive dashboard walkthrough video is shared on LinkedIn:
+
+🎥 Dashboard Walkthrough Video  
+[Click here to watch the interactive Power BI dashboard walkthrough on LinkedIn]
+(https://www.linkedin.com/posts/siddhi-katkar01_powerbi-hranalytics-dataanalytics-activity-7411162818105835520-oRwf)
+
 
 ---
 
